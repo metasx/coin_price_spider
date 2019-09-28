@@ -1,1 +1,1 @@
-*/5 * * * * /usr/bin/python $scirpt_path
+*/5 * * * * /usr/bin/python $scirpt_path.
